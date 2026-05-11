@@ -3,7 +3,7 @@
 
 ## 🌐 LIVE EXPLORER
 Check your balance and network status in real-time:
-[https://022add289f24954b-109-107-230-67.serveousercontent.com](https://022add289f24954b-109-107-230-67.serveousercontent.com)
+[http://192.168.1.207:5000)
 *(Note: Link updated frequently for security).*
 
 ## ⚠️ THE SHADOW LEDGER
